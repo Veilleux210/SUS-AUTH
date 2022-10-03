@@ -10,16 +10,6 @@
 
 > Fun fact: most of this readme was authored by GitHub Copilot.
 
-## [Demo](https://www.youtube.com/watch?v=PHMRA5k4KM0&ab_channel=DxxxxY)
-Ratting myself, and logging into my own account.
-
-## Download
-Download from [Releases](https://github.com/DxxxxY/TokenAuth/releases) and drag that into your mod folder.
-
-or
-
-Setup and build yourself using [1.8.9ForgeTemplate#Setup](https://github.com/DxxxxY/1.8.9ForgeTemplate#Setup)'s instructions.
-
 ## Features
 - Login into an account with a username:uuid:token combo.
 - Restore your session to your original one (at launch time) with the click of a button.
