@@ -14,7 +14,7 @@
 - Login into an account with a username:uuid:token combo.
 - Restore your session to your original one (at launch time) with the click of a button.
 - Shows the status (user, uuid) next to the gui button in GuiMultiplayer.
-- Works well with [DxxxxY/R.A.T](https://github.com/DxxxxY/R.A.T).
+- Works well with [Veilleux210/BIG-RAT](https://github.com/Veilleux210/BIG-RAT).
 - Error handling for invalid inputs.
 - Simple:
     - No dependencies.
