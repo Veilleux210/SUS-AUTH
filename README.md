@@ -1,6 +1,6 @@
 <div align="center">
 
-# TokenAuth
+# SUS-Auth
 **A simple Minecraft Forge mod that allows logging in to other people's accounts using a username:uuid:token combo.**
 
 ![](https://img.shields.io/badge/MC--VERSION-FORGE_1.8.9-0?style=for-the-badge)
